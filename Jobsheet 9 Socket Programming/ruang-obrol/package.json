@@ -1,0 +1,20 @@
+{
+  "name": "ruang-obrol",
+  "version": "1.0.0",
+  "description": "A simple chat room built with Socket.io for exercises",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
