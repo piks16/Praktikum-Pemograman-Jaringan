@@ -9,8 +9,6 @@
                                                        
 **UNIVERSITAS NEGERI PADANG**                 
                                                        
-# Praktikum Pemrograman Jaringan - Rangkuman Materi
-
 ## Daftar Isi
 1. [Jobsheet 1: Pengantar Node.js](#jobsheet-1-pengantar-nodejs)
 2. [Jobsheet 2: Node.js Module System](#jobsheet-2-nodejs-module-system)
